@@ -21,6 +21,7 @@ ________________________________________________________________________________
   <img align="center" alt="Alexandre-JAVA" height="30" width="65" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  </div>
 _____________________________________________________________________________________________________________________________________________________ 
+ 
 ### Redes Sociais
   
   <div>
@@ -30,6 +31,7 @@ ________________________________________________________________________________
  	  <a href="https://www.twitch.tv/x4njk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   </div>
 _____________________________________________________________________________________________________________________________________________________ 
+ 
  ### Commits
   
    ![Snake animation](https://github.com/alexandrebaldini/alexandrebaldini/blob/output/github-contribution-grid-snake.svg)
