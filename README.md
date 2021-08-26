@@ -20,8 +20,7 @@ ________________________________________________________________________________
   <img align="center" alt="Alexandre-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alexandre-JAVA" height="30" width="65" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
  </div>
-_____________________________________________________________________________________________________________________________________________________  
- 
+_____________________________________________________________________________________________________________________________________________________ 
 ### Redes Sociais
   
   <div>
@@ -30,8 +29,7 @@ ________________________________________________________________________________
     <a href="https://instagram.com/alexandrebaldini/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	  <a href="https://www.twitch.tv/x4njk" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
   </div>
-_____________________________________________________________________________________________________________________________________________________
-  
+_____________________________________________________________________________________________________________________________________________________ 
  ### Commits
   
    ![Snake animation](https://github.com/alexandrebaldini/alexandrebaldini/blob/output/github-contribution-grid-snake.svg)
